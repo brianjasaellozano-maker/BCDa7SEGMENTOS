@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-BCD a 7 segmentos
+BCD a 7 segmento
 
 ## How to test
 
